@@ -1,0 +1,2 @@
+# TABLE-CREATION-SCRIPT-USING-SQL-ORACLE-
+EMP–DEPT SQL Schema Setup (Oracle Database)
